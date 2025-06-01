@@ -85,3 +85,6 @@ nmap-port-scan-task/
 │   └── nmap_output.png
 ├── wireshark/
 │   └── capture.pcapng (optional)
+
+OUTCOMES:
+“By completing this task, I successfully performed a TCP SYN scan using Nmap to identify active devices and open ports in my local network. I analyzed the scan results to understand the services running on these ports and assessed their potential security risks. This task provided hands-on experience in basic network reconnaissance and reinforced the importance of port-level security in a cybersecurity context.”
